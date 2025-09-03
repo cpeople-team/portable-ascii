@@ -1,18 +1,19 @@
 {
-    "name": "voku/portable-ascii",
-    "description": "Portable ASCII library - performance optimized (ascii) string functions for php.",
+    "name": "cpeople-team/portable-ascii",
+    "description": "Fork of Portable ASCII library - performance optimized (ascii) string functions for PHP by CreativePeople.",
     "type": "library",
     "keywords": [
         "clean",
         "php",
         "ascii"
     ],
-    "homepage": "https://github.com/voku/portable-ascii",
+    "homepage": "https://github.com/cpeople-team/portable-ascii",
     "license": "MIT",
     "authors": [
         {
-            "name": "Lars Moelleken",
-            "homepage": "https://www.moelleken.org/"
+            "raising": "CreateivePeople",
+            "homepage": "https://cpeople.team",
+            "email": "info@cpeople.team"
         }
     ],
     "require": {
