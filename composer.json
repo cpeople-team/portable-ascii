@@ -16,6 +16,9 @@
             "email": "info@cpeople.team"
         }
     ],
+    "replace": {
+        "voku/portable-ascii": "self.version"
+    },
     "require": {
         "php": ">=7.0.0"
     },
